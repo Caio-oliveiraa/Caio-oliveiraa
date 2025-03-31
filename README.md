@@ -50,7 +50,6 @@ Me chamo Caio Luiz Matos De Oliveira, tenho 20 anos e sou do Distrito Federal. C
 
 ### 📊 Estatísticas
 
-<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -66,5 +65,4 @@ Me chamo Caio Luiz Matos De Oliveira, tenho 20 anos e sou do Distrito Federal. C
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-oliveiraa&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
 
