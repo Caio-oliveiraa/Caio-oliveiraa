@@ -55,7 +55,7 @@ Me chamo Caio Luiz Matos De Oliveira, tenho 20 anos e sou do Distrito Federal. C
     alt="Github Stats"
     height="170px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Caio-oliveiraa&show_icons=true&theme=dark&include_all_comits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Caio-oliveiraa&show_icons=true&theme=highcontrast&include_all_comits=true&locale=pt-br" 
 />
 
 <img 
@@ -63,7 +63,7 @@ Me chamo Caio Luiz Matos De Oliveira, tenho 20 anos e sou do Distrito Federal. C
     alt="Github Stats"
     height="170px"
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-oliveiraa&theme=dark&custom_title=Tecnologias&langs_count=5&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-oliveiraa&theme=highcontrast&custom_title=Tecnologias&langs_count=5&layout=compact" 
 />
 
 <picture align="center">
