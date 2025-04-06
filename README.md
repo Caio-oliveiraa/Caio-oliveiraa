@@ -44,6 +44,15 @@ Me chamo Caio Luiz Matos De Oliveira, tenho 20 anos e sou do Distrito Federal. C
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+
 
 <br/>
 <br/>
